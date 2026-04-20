@@ -26,7 +26,7 @@ Enjoy!
 ## Author
 
 Ludwig Temmel
-ludwigtemmel.com
+[ludwigtemmel.com](ludwigtemmel.com)
 
 ## License
 
