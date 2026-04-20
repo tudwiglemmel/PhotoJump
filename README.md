@@ -2,7 +2,7 @@
 
 A simple android application made for the class "Development of mobile applications - 5DV209" at Umeå University
 
-![Gameplay](assets/images/gameplay.gif)
+<img src="assets/images/gameplay.gif" width="200">
 
 ## Description
 
