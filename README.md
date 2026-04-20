@@ -2,6 +2,8 @@
 
 A simple android application made for the class "Development of mobile applications - 5DV209" at Umeå University
 
+![Gameplay](assets/images/gameplay.gif)
+
 ## Description
 
 This app lets users Photograph objects or friends to use as players in a simple mobile game. The device is tilted side-to-side to control the player,
