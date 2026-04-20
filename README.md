@@ -9,7 +9,7 @@ making it jump onto platforms and achieve a high score.
 All access to storage and the camera API is done in accordance with Googles privacy recommendations.
 The app is built with jetpack compose to enable a modern UI that adapts to font size, screen ratio, size and resolution, and the dark/white mode of the device it is running on.
 
-### Dependencies
+## Dependencies
 
 This app was developed in Android Studio. That is recommended for further development.
 To run the application requires a somewhat modern device with a camera and accelerometer.
